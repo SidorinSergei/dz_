@@ -1,7 +1,6 @@
 ﻿#include <iostream>
 #include <sstream>
 #include <fstream>
-//построить все размещения с повторениями по к элементов
 using namespace std;
 ofstream f("C:\\Users\\79892\\Desktop\\dz.txt");
 void Razm(string razm, int place, int n, int k)
